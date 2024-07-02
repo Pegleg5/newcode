@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+#Getting user name
+weekday = input("What day of the week is it? ")
+#getting day of the week
+print(f"Hello, {name}! Happy {weekday}!") 
+#Printing results
