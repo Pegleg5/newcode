@@ -1,0 +1,14 @@
+export OS_AUTH_URL=www.google.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=bigfish
+export OS_PROJECT_DOMAIN_NAME=global
+export OS_USERNAME=Peg
+export OS_USER_DOMAIN_NAME=global1
+export OS_PASSWORD=Desm0nd630
+export OS_AUTH_URL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
